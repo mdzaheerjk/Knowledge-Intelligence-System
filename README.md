@@ -1,3 +1,6 @@
+# Knowledge-Intelligence-System
+This project aims to build a RAG-based Knowledge Intelligence System that lets users upload, organize, search, and chat with internal documents via a conversational AI interface. It combines vector retrieval with an LLM to deliver accurate, context-aware answers grounded in user data, with an admin dashboard for content and usage management.
+
 <h1 align="center">🚀 AI Powered Application</h1>
 
 <p align="center">
