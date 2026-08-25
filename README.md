@@ -4,7 +4,7 @@ This project aims to build a RAG-based Knowledge Intelligence System that lets u
 <h1 align="center">🚀 AI Powered Application</h1>
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_banners/unnamed_1_2.jpg"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_banners/15.png"
        alt="Project Banner"
        width="1000"/>
 </p>
@@ -14,7 +14,7 @@ This project aims to build a RAG-based Knowledge Intelligence System that lets u
 <h2 align="center">🏗️ Project Architecture</h2>
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/erwtfswfsdf.png"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_architecture_diagrams/erwtfswfsdf.png"
        alt="Project Architecture Diagram"
        width="900"/>
 </p>
